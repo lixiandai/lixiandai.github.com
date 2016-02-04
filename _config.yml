@@ -27,6 +27,10 @@ author :
 #
 production_url : http://lixiandai.github.io
 
+pagubate: 1
+paginate_path: "page:num"
+
+excerpt_separator: <!--more-->
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
