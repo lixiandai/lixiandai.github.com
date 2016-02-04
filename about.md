@@ -7,9 +7,9 @@ description: "lixian dai's resume"
 
 #Mr. Lixian Dai
 
-+ Mobile: (716) 986-5255 
+**Mobile:** (716) 986-5255 
 
-+ E-mail: dailixian@gmail.com 
+**E-mail:** dailixian@gmail.com 
 
 ##OBJECTIVE
 Software Architect/Software Engineer/Technical Lead 
